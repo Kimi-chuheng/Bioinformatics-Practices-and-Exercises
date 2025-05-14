@@ -1,3 +1,7 @@
+# GC Content Analysis of FASTA Files
+
+This project provides a suite of Bash scripts for basic bioinformatics analysis of genomic FASTA files. The main functionalities include **GC content calculation**, **sequence information extraction**, and **sequence count statistics**.
+
 # GC Content Analysis – FASTA File Utilities
 
 This task focuses on basic bioinformatics analysis using Bash scripts to process and extract information from genomic FASTA files. The main objectives include calculating GC content, extracting specific sequences, and summarizing basic file statistics.
@@ -18,11 +22,11 @@ less GCF_009858895.2_ASM985889v3_genomic.fna
 
 # Check the sequence headers
 grep ">" GCF_009858895.2_ASM985889v3_genomic.fna
-
+```
 ## 📁 Directory Structure
 
 ```
-FASTA_practice/
+01_gc_analysis/
 ├── GCF_009858895.2_genomic.fna  # Example FASTA file
 ├── gc_summary.txt               # Summary of GC content for multiple files
 ├── batch_gc.sh                  # Processes all .fna files in a directory to calculate GC content
