@@ -2,7 +2,7 @@
 
 QUERY=$1
 BASE=$(basename "$QUERY" .fasta)
-PFAM_DB="//home/cxnnd/Bio_learning/bioinfo_tools_stage2/pfam_db/Pfam-A.hmm"   
+PFAM_DB="//home/cxnnd/Bio_learning/bioinfo_tools_stage2/pfam_db/Pfam-A.hmm"   #this need to be changed to yourown
 
 mkdir -p results/${BASE}
 echo "=== Scanning query against Pfam domains with hmmscan ==="
