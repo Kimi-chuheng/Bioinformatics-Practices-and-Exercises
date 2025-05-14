@@ -1,0 +1,55 @@
+====================================================
+ANALYSIS REPORT FOR TARGET: T1072s2
+====================================================
+Generated on: Tue May 13 15:33:12 CDT 2025
+
+--------- 1. TARGET SEQUENCE ANALYSIS ---------
+1.1 Basic Sequence Information:
+  - Sequence length: 69 amino acids
+1.2 Amino Acid Composition:
+  - L: 9 (13.04%)
+  - E: 9 (13.04%)
+  - A: 7 (10.14%)
+  - K: 6 (8.69%)
+  - D: 6 (8.69%)
+  - S: 5 (7.24%)
+  - I: 5 (7.24%)
+  - R: 4 (5.79%)
+  - N: 4 (5.79%)
+  - F: 3 (4.34%)
+  - Y: 2 (2.89%)
+  - V: 2 (2.89%)
+  - Q: 2 (2.89%)
+  - M: 2 (2.89%)
+  - G: 2 (2.89%)
+  - T: 1 (1.44%)
+1.3 No non-standard amino acids detected.
+1.4 Prediction Information:
+  - PSIPRED not found. Secondary structure prediction skipped.
+
+--------- 2. MULTIPLE SEQUENCE ALIGNMENT ANALYSIS ---------
+2.1 MSA Statistics:
+  - Number of sequences in alignment: 129
+  - MSA has multiple sequences - good for structure prediction
+2.2 Alignment Coverage Analysis:
+  - Alignment depth assessment: based on sequence count
+    * Moderate alignment (50-500 sequences)
+
+--------- 3. STRUCTURE PREDICTION CONFIDENCE ASSESSMENT ---------
+3.1 Prediction Confidence Estimate:
+  - HIGH CONFIDENCE: Many homologous sequences found (129)
+  - Structure prediction likely to be accurate
+
+--------- 4. RECOMMENDATIONS ---------
+4.1 Next Steps:
+  - Proceed with folding using AlphaFold2 or RoseTTAFold
+  - Expected good quality prediction based on alignment depth
+4.2 Additional Analyses to Consider:
+  - Conserved domain search (NCBI CDD, Pfam)
+  - Transmembrane region prediction
+  - Signal peptide prediction
+  - Disorder prediction
+
+====================================================
+End of report for T1072s2
+====================================================

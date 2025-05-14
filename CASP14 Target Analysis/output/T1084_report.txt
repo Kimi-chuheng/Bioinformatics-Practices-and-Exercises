@@ -1,0 +1,50 @@
+====================================================
+ANALYSIS REPORT FOR TARGET: T1084
+====================================================
+Generated on: Tue May 13 15:33:13 CDT 2025
+
+--------- 1. TARGET SEQUENCE ANALYSIS ---------
+1.1 Basic Sequence Information:
+  - Sequence length: 73 amino acids
+1.2 Amino Acid Composition:
+  - H: 22 (30.13%)
+  - A: 22 (30.13%)
+  - E: 10 (13.69%)
+  - K: 7 (9.58%)
+  - Q: 3 (4.10%)
+  - P: 2 (2.73%)
+  - G: 2 (2.73%)
+  - D: 2 (2.73%)
+  - Y: 1 (1.36%)
+  - T: 1 (1.36%)
+  - M: 1 (1.36%)
+1.3 No non-standard amino acids detected.
+1.4 Prediction Information:
+  - PSIPRED not found. Secondary structure prediction skipped.
+
+--------- 2. MULTIPLE SEQUENCE ALIGNMENT ANALYSIS ---------
+2.1 MSA Statistics:
+  - Number of sequences in alignment: 264
+  - MSA has multiple sequences - good for structure prediction
+2.2 Alignment Coverage Analysis:
+  - Alignment depth assessment: based on sequence count
+    * Moderate alignment (50-500 sequences)
+
+--------- 3. STRUCTURE PREDICTION CONFIDENCE ASSESSMENT ---------
+3.1 Prediction Confidence Estimate:
+  - HIGH CONFIDENCE: Many homologous sequences found (264)
+  - Structure prediction likely to be accurate
+
+--------- 4. RECOMMENDATIONS ---------
+4.1 Next Steps:
+  - Proceed with folding using AlphaFold2 or RoseTTAFold
+  - Expected good quality prediction based on alignment depth
+4.2 Additional Analyses to Consider:
+  - Conserved domain search (NCBI CDD, Pfam)
+  - Transmembrane region prediction
+  - Signal peptide prediction
+  - Disorder prediction
+
+====================================================
+End of report for T1084
+====================================================
