@@ -1,12 +1,12 @@
 # GC Content Analysis of FASTA Files
 
-This project provides a suite of Bash scripts for basic bioinformatics analysis of genomic FASTA files. The main functionalities include **GC content calculation**, **sequence information extraction**, and **sequence count statistics**.
+This practice provides a suite of Bash scripts for basic bioinformatics analysis of genomic FASTA files. The main functionalities include **GC content calculation**, **sequence information extraction**, and **sequence count statistics**.
 
 # GC Content Analysis – FASTA File Utilities
 
 This task focuses on basic bioinformatics analysis using Bash scripts to process and extract information from genomic FASTA files. The main objectives include calculating GC content, extracting specific sequences, and summarizing basic file statistics.
 
-## 📥 Getting the Data
+## Getting the Data
 
 Download and prepare the SARS-CoV-2 genome FASTA file:
 
@@ -23,7 +23,7 @@ less GCF_009858895.2_ASM985889v3_genomic.fna
 # Check the sequence headers
 grep ">" GCF_009858895.2_ASM985889v3_genomic.fna
 ```
-## 📁 Directory Structure
+## Directory Structure
 
 ```
 01_gc_analysis/
@@ -36,7 +36,7 @@ grep ">" GCF_009858895.2_ASM985889v3_genomic.fna
 ├── extract_sequence.sh          # Extracts specific sequences by ID
 ```
 
-## 🧪 Script Descriptions
+## Script Descriptions
 
 ### gc_content.sh
 Counts the total number of G and C bases in a single FASTA file.
@@ -73,7 +73,7 @@ Extracts sequences from a FASTA file based on sequence ID matching.
 Usage: ./extract_sequence.sh <fasta_file> <sequence_id>
 ```
 
-## 🧬 Sample Output
+## Sample Output
 
 Example output from `batch_gc_summary.sh`:
 
@@ -82,7 +82,7 @@ Processing: GCF_009858895.2_genomic.fna
 GCF_009858895.2_genomic.fna: 4567382
 ```
 
-## ✅ Project Features
+## Project Features
 
 * Shell scripting for bioinformatics pipeline development
 * Text processing using common Unix tools (`grep`, `wc`, `tr`)
@@ -90,7 +90,7 @@ GCF_009858895.2_genomic.fna: 4567382
 * FASTA format parsing and content analysis
 * Foundation for more advanced genomic data workflows
 
-## 🔧 Requirements
+## Requirements
 
 * Bash shell environment
 * Standard Unix text processing tools
