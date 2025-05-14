@@ -1,6 +1,23 @@
-# GC Content Analysis of FASTA Files
+# GC Content Analysis – FASTA File Utilities
 
-This project provides a suite of Bash scripts for basic bioinformatics analysis of genomic FASTA files. The main functionalities include **GC content calculation**, **sequence information extraction**, and **sequence count statistics**.
+This task focuses on basic bioinformatics analysis using Bash scripts to process and extract information from genomic FASTA files. The main objectives include calculating GC content, extracting specific sequences, and summarizing basic file statistics.
+
+## 📥 Getting the Data
+
+Download and prepare the SARS-CoV-2 genome FASTA file:
+
+```bash
+# Download the SARS-CoV-2 genome
+wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/858/895/GCF_009858895.2_ASM985889v3/GCF_009858895.2_ASM985889v3_genomic.fna.gz
+
+# Decompress the FASTA file
+gunzip GCF_009858895.2_ASM985889v3_genomic.fna.gz
+
+# View the file
+less GCF_009858895.2_ASM985889v3_genomic.fna
+
+# Check the sequence headers
+grep ">" GCF_009858895.2_ASM985889v3_genomic.fna
 
 ## 📁 Directory Structure
 
