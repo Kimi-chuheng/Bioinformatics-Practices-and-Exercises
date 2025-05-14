@@ -1,6 +1,6 @@
 # Bioinformatics Practices and Exercises
 
-This repository contains my completed exercises and projects for the Bioinformatics course. Each section demonstrates understanding and application of key bioinformatics concepts, tools, and methodologies through hands-on implementation and analysis.
+This repository contains my exercises for the Bioinformatics project. Each section demonstrates understanding and application of key bioinformatics concepts, tools, and methodologies through hands-on implementation and analysis.
 
 ## Table of Contents
 
