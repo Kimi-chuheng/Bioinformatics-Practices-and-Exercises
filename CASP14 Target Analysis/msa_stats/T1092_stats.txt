@@ -1,0 +1,4 @@
+Number of sequences: 2022
+Alignment length: 426
+Average diversity: 38.54
+Number of conserved positions: 0

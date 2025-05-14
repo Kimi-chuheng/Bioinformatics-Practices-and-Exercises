@@ -1,0 +1,4 @@
+Number of sequences: 1144
+Alignment length: 226
+Average diversity: 33.94
+Number of conserved positions: 0
