@@ -1,0 +1,56 @@
+====================================================
+ANALYSIS REPORT FOR TARGET: T1039
+====================================================
+Generated on: Tue May 13 15:33:13 CDT 2025
+
+--------- 1. TARGET SEQUENCE ANALYSIS ---------
+1.1 Basic Sequence Information:
+  - Sequence length: 161 amino acids
+1.2 Amino Acid Composition:
+  - N: 21 (13.04%)
+  - K: 18 (11.18%)
+  - L: 17 (10.55%)
+  - E: 14 (8.69%)
+  - Y: 11 (6.83%)
+  - F: 11 (6.83%)
+  - S: 10 (6.21%)
+  - I: 10 (6.21%)
+  - D: 8 (4.96%)
+  - T: 7 (4.34%)
+  - Q: 7 (4.34%)
+  - V: 6 (3.72%)
+  - P: 6 (3.72%)
+  - G: 6 (3.72%)
+  - A: 4 (2.48%)
+  - M: 3 (1.86%)
+  - R: 2 (1.24%)
+1.3 No non-standard amino acids detected.
+1.4 Prediction Information:
+  - PSIPRED not found. Secondary structure prediction skipped.
+
+--------- 2. MULTIPLE SEQUENCE ALIGNMENT ANALYSIS ---------
+2.1 MSA Statistics:
+  - Number of sequences in alignment: 1
+  - WARNING: MSA has only the query sequence - poor alignment
+2.2 Alignment Coverage Analysis:
+  - No aligned sequences found other than the query
+
+--------- 3. STRUCTURE PREDICTION CONFIDENCE ASSESSMENT ---------
+3.1 Prediction Confidence Estimate:
+  - LOW CONFIDENCE: Few homologous sequences found (1)
+  - Structure prediction may be challenging
+  - Consider additional search methods or experimental approaches
+
+--------- 4. RECOMMENDATIONS ---------
+4.1 Next Steps:
+  - Try deeper sequence search (more iterations, different databases)
+  - Consider using AlphaFold2 with templates
+4.2 Additional Analyses to Consider:
+  - Conserved domain search (NCBI CDD, Pfam)
+  - Transmembrane region prediction
+  - Signal peptide prediction
+  - Disorder prediction
+
+====================================================
+End of report for T1039
+====================================================

@@ -1,0 +1,578 @@
+>T1059 MtrunA17_Chr7g0216231, Medicago truncatula, 32 residues|
+TKPCQSDKDCKKFACRKPKVPKCINGFCKCVR
+>UniRef100_A0A0U8RBJ8 Nodule cysteine-rich protein 6 n=1 Tax=Cicer arietinum TaxID=3827 RepID=A0A0U8RBJ8_CICAR
+-QRCKSRVDCKTYPCPIPKVKSCLNGYCKCVR
+>UniRef100_A0A0U8TB28 Nodule cysteine-rich protein 14 n=1 Tax=Cicer arietinum TaxID=3827 RepID=A0A0U8TB28_CICAR
+-----TRRDCKTYPCPPSKVKDCIKGYCKCVR
+>UniRef100_A0A0U8TEW4 Nodule cysteine-rich protein 7 n=1 Tax=Cicer arietinum TaxID=3827 RepID=A0A0U8TEW4_CICAR
+-MPCKRRRDCKTYPCPHPKVRDCVKGYCKCVV
+>UniRef100_A0A0U8TRI1 Nodule cysteine-rich protein 15 n=1 Tax=Cicer arietinum TaxID=3827 RepID=A0A0U8TRI1_CICAR
+-QPCKSRKHCKTYRCPTPKVPNCVNGFCKCVR
+>UniRef100_A0A072TU94 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TU94_MEDTR
+--PCIVDDDCPILFF--PRYSMCIDGLCLLFF
+>UniRef100_A0A072UFX8 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UFX8_MEDTR
+--RCIHQDDCPKYMCEISVLPECINGFCTCV-
+>UniRef100_A0A072VB20 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072VB20_MEDTR
+--PCNNVDDCRKHMCT-PYgqLVRCINSTCECVL
+>UniRef100_A0A396I579 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396I579_MEDTR
+--GCYSDDQCPNECP--AILMRCIHSLCVEFI
+>UniRef100_A0A396IN36 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396IN36_MEDTR
+--PCKIDVDCLIKDCFRPFKPMCIVLNCECVL
+>UniRef100_A0A6A4QFF3 Putative Late nodulin n=1 Tax=Lupinus albus TaxID=3870 RepID=A0A6A4QFF3_LUPAL
+--YCQDDSDCICDRE--SI-PKCIGGACFCWK
+>UniRef100_A7KH76 Nodule-specific cysteine-rich peptide 62 n=2 Tax=Medicago truncatula TaxID=3880 RepID=A7KH76_MEDTR
+--PCVKDTDCPTLPC--PLYSKCVDGFCKMLS
+>UniRef100_A7KH79 Nodule-specific cysteine-rich peptide 74 n=2 Tax=Medicago truncatula TaxID=3880 RepID=A7KH79_MEDTR
+--RCVSDADCPLFPL--PLHNRCIDDVCHLFT
+>UniRef100_A7KHB2 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KHB2_MEDTR
+--GCDKDRDCPKQMCHLNQTPKCLKNICKCV-
+>UniRef100_G7IT79 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IT79_MEDTR
+--FCFEDINCPFDKCF-PQLPKCINSFCECV-
+>UniRef100_G7KP36 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KP36_MEDTR
+--GCKHTGHCPRKMCG-AKTTKCRNNKCQCVQ
+>UniRef100_G7KS41 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7KS41_MEDTR
+--PCFSDDDCPKTSP--PLVLKCDDYFCRYFR
+>UniRef100_G7KSG9 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KSG9_MEDTR
+--PCVTVADCPPTIL--PVFYECIDKFCMLHI
+>UniRef100_A0A072TD23 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TD23_MEDTR
+-NICIDDVHCQKYKCSPGLYPTCINGWCECK-
+>UniRef100_A0A072TYZ0 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TYZ0_MEDTR
+-EKCGSSPDCEIYKCIPPAKPKCVLFGCMCIT
+>UniRef100_A0A072U7M5 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072U7M5_MEDTR
+-VICDLEKDCRQYLCIPPEFPRCIGGICRCK-
+>UniRef100_A0A072UU77 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UU77_MEDTR
+-FRCKVDIDCPQILCFDEQIAKCIARMCECDY
+>UniRef100_A0A072UVS0 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UVS0_MEDTR
+-TRCRNDVECPQYSCLRGLKMKCICFKCMCV-
+>UniRef100_A0A072V827 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072V827_MEDTR
+-IGCDTSNDCPSYMCPPPLSPRCTKFYCKCI-
+>UniRef100_A0A072V9R1 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072V9R1_MEDTR
+-EHCETHSDCPHYMCDSPQTPWCMAYECWCF-
+>UniRef100_A0A072VAB0 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072VAB0_MEDTR
+-ENCETHSDCPHYMCTSPETPWCVAYQCGCY-
+>UniRef100_A0A072VGT6 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072VGT6_MEDTR
+-QKCCKDSDCLDLLyCRTPLKPKCIhERMCKCKA
+>UniRef100_A0A072VHI2 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072VHI2_MEDTR
+-HRCFKDSECLNLLyCRTPLKPKCMyRTFCKCKV
+>UniRef100_A0A072VIH1 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072VIH1_MEDTR
+-ITCESDEDCPTSFCIPPQIPKC-RTICECIT
+>UniRef100_A0A396HS57 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396HS57_MEDTR
+-NECYEDTDCPIQMCGYPFNVDCVGNKCTCVY
+>UniRef100_A0A396IPG7 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396IPG7_MEDTR
+-FRCKVDIDCPQILCFEKQIAKCIDRMCECVN
+>UniRef100_A0A396IXZ0 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396IXZ0_MEDTR
+-YKCQTNYDCLRMWCPIGISPRCIKRRCKCIE
+>UniRef100_A0A396J6X8 Uncharacterized protein n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396J6X8_MEDTR
+-FILFKFSSLLIVDNIVSHFNNIVYLLCSLQ-
+>UniRef100_A0A396JI16 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396JI16_MEDTR
+-FRCKNDFDCVHKRCRGPMRAKCIsKAICKCRL
+>UniRef100_A7KH85 Nodule-specific cysteine-rich peptide 93 n=2 Tax=Medicago truncatula TaxID=3880 RepID=A7KH85_MEDTR
+-YKCFKDSDCVKLLCRIPLRPKCMyRHICKCKV
+>UniRef100_G7I3P8 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7I3P8_MEDTR
+-MSCFHDADCVHKRCQLPQIPKCVGKKCRCRG
+>UniRef100_G7I794 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7I794_MEDTR
+-SGCMNDSDCPDLFCLPPLDMKCHELVCKCR-
+>UniRef100_G7IIW2 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7IIW2_MEDTR
+-LVCESDEECPKSTCLPPQIPKCLRMICECV-
+>UniRef100_G7IQH9 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7IQH9_MEDTR
+-LSCFEDSDCPYDMCYAGFQPKCVNGWCDC--
+>UniRef100_G7KAJ5 Transmembrane protein, putative n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KAJ5_MEDTR
+-KYCFIDTDCPRSMCHYPEIVRCVDQ-CKCVR
+>UniRef100_G7KIM9 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7KIM9_MEDTR
+-IRCFHDADCVHKICHPPQIRKCVSKICKCRL
+>UniRef100_G7L3W6 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7L3W6_MEDTR
+-IFCYNDDDCPHI-CSHPRVQKCRMFLCHCEE
+>UniRef100_G7LG05 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7LG05_MEDTR
+-ALCDSNRDCRGYHCNWPKFPICVRMICECI-
+>UniRef100_G7LG17 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7LG17_MEDTR
+-TICDSDQDCRRYRCDPPEYPRCLGILCKCVY
+>UniRef100_G7LHJ5 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7LHJ5_MEDTR
+-SFCDSVKDCRepAFFCEPPKIARCVMLFCRCD-
+>UniRef100_G8A2R7 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=G8A2R7_MEDTR
+-TVCDSNHDCRSYFCGPHKFSMCVRKFCQCI-
+>UniRef100_I3SEA7 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=I3SEA7_MEDTR
+-MYCFNDDDCRELKCSHPRVRKCRMFLCRCEE
+>UniRef100_Q1RU35 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=Q1RU35_MEDTR
+-TSCDSSKDCRSFLCYSPKFPVCKRGICECI-
+>UniRef100_A0A072TFD7 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TFD7_MEDTR
+-YWCFDNSDCPQHLCHELIIPRCKIGVCVCLP
+>UniRef100_A0A072TNG5 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TNG5_MEDTR
+-PACFKDHMCRQLKCSPGRTPKCVNYQCRCSP
+>UniRef100_A0A072TQ08 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TQ08_MEDTR
+-YPCNTDSDCPQNMCTPDMEPRCWTGYCSSCY
+>UniRef100_A0A072TQP5 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TQP5_MEDTR
+-LKCTTDYDCREGFCPEGLAPKCFVsfalarflseGRCLCI-
+>UniRef100_A0A072TR69 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TR69_MEDTR
+-HRCSTDSFCPPNMCPPGMTPKCVRFRCKCVP
+>UniRef100_A0A072TRV3 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TRV3_MEDTR
+-LDCHSDHECYNQLsCIIEEI--CLDGSCHCPP
+>UniRef100_A0A072U8T2 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072U8T2_MEDTR
+-PPCTKVSDCPPNLvCKPGYKLGCSANyQCICYM
+>UniRef100_A0A072U9J8 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072U9J8_MEDTR
+-NPCLVT--CPDDLlnrCPPGMEPICEYGVIKCYP
+>UniRef100_A0A072UK90 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UK90_MEDTR
+-AFCIKDSNCGQDLCTSPNEvPECRLLKCQCIK
+>UniRef100_A0A072UPM6 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UPM6_MEDTR
+-KSCSSDFDCPRTMCIKLSLARCFNDFCHCY-
+>UniRef100_A0A072USM4 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072USM4_MEDTR
+-YQCIADSDCQPWMCSLGMKPKCISVLRMCKC
+>UniRef100_A0A072UT45 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UT45_MEDTR
+-YQCIKESDCPQYMCSAGLRANCVDrGVCKCVP
+>UniRef100_A0A072UTM9 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UTM9_MEDTR
+-YQCDPCFGHPDDMinfCPPGTAPKCFHGLIKCVP
+>UniRef100_A0A072UUT3 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UUT3_MEDTR
+-YRCLDHSHCPTFMCSPGLKPKCMNpKVCKCVP
+>UniRef100_A0A072UWC9 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UWC9_MEDTR
+-VLCFYDSDCPQDKCKNPDDvPRCIFPVCHCIK
+>UniRef100_A0A072UYP4 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UYP4_MEDTR
+-FHCHMDYDCYDQItCIIGDV-TCLEGSCDCPQ
+>UniRef100_A0A072UZJ3 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UZJ3_MEDTR
+-LECTTDYDCREEWlCPPDMEAKCFVsfalarflskGKCLCV-
+>UniRef100_A0A396GHV2 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396GHV2_MEDTR
+-FECTSDHDCEDVGyCPDTFVAKCFVsfalsqflskGKCLCV-
+>UniRef100_A0A396GHZ8 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396GHZ8_MEDTR
+-FECTTDHDCREVECFLDTLvAKCFVsfvlgrflskGICSCV-
+>UniRef100_A0A396GIA4 Putative Late nodulin n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A396GIA4_MEDTR
+-YRCTTDSDCPPNMCPPGMEPKCVRYVCKCLP
+>UniRef100_A0A396I1T2 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396I1T2_MEDTR
+-KRCKEDFDCRIRSCAYPLIPVCIDPFCRCRR
+>UniRef100_A0A396IPX3 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396IPX3_MEDTR
+-LRCVHVSKCPKMYCNRGFELGCVQKYCKCVR
+>UniRef100_A0A396IRP3 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396IRP3_MEDTR
+-IRCNRVSDCPKQMyCNRDYELSCVYNQCKCVR
+>UniRef100_A7KH89 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KH89_MEDTR
+-YPCNTGSDCPQNMCPPGYKPGCEDGYCNHCY
+>UniRef100_A7KHD3 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KHD3_MEDTR
+-MNCQSTFDCPRDMCSHIRDVICIFKKCKCAG
+>UniRef100_A7KHG6 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KHG6_MEDTR
+-YLCVTDSHCPPHMCPPGMEPRCVRRMCKCLP
+>UniRef100_G7IMB5 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IMB5_MEDTR
+-PNCQTIVDCPDNMCTHPKEVYCIGYRCYCLK
+>UniRef100_G7IQM1 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IQM1_MEDTR
+--ICQTYMDCPSDMCTRPKHAYCVSYKCYCV-
+>UniRef100_G7IT98 Late nodulin n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7IT98_MEDTR
+--PCVSTRDCTTHTCNPPLVARCIN-lRCYCGY
+>UniRef100_G7IV70 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7IV70_MEDTR
+-IPCNDDVDCPQTLCEQLIAdfkymidfkSECVSRMCACTG
+>UniRef100_G7IV71 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IV71_MEDTR
+-HACTVNADCEQSMCDPFCVggyhftPICVIGWCVCVG
+>UniRef100_G7IV77 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IV77_MEDTR
+-NKCFRPSDCPPSMyCDAGFQIGCVRKICTCLR
+>UniRef100_G7J0M9 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7J0M9_MEDTR
+-IRCRNVYDCPKATyCRAGSHrVQCIKHQCKCVR
+>UniRef100_G7J0N1 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7J0N1_MEDTR
+-MRCNHVSDCPKDTfCWLDSHMQCIKHQCKCVR
+>UniRef100_G7J0N2 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7J0N2_MEDTR
+-IRCHDVSECPKGLyCNVGSHMECVKHQCKCIK
+>UniRef100_G7JN36 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7JN36_MEDTR
+-TRCVRNSDCRHHICMYPLVPRCKYPLCRCV-
+>UniRef100_G7JN37 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7JN37_MEDTR
+-TKCKNNFECRFLICMNPLVPKCKVPYCRCM-
+>UniRef100_G7JP12 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7JP12_MEDTR
+-KRCRVDFDCRMRMCVYPTVSVCIDRLCRCRR
+>UniRef100_G7JP15 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7JP15_MEDTR
+-RTCKEDFDCRMRYCVYPTIPLCDVKHCRCRR
+>UniRef100_G7KA04 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KA04_MEDTR
+-IECYTYFDCPKDMCIFPSIVVCVRNQCDCVE
+>UniRef100_G7LA43 Late nodulin n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7LA43_MEDTR
+-FECTTDYDCRDVWyCSDTQVAKCYVrsrflskGKCLCVK
+>UniRef100_G7LJB5 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7LJB5_MEDTR
+--WCLYDKDCPQNMCRPGRIPKCIFGHCNCVK
+>UniRef100_I3T3M9 Uncharacterized protein n=1 Tax=Medicago truncatula TaxID=3880 RepID=I3T3M9_MEDTR
+-DECVKVSDCSPTKyCLPGRRMISSKGKCKCLR
+>UniRef100_A0A2Z6LU29 Uncharacterized protein n=1 Tax=Trifolium subterraneum TaxID=3900 RepID=A0A2Z6LU29_TRISU
+-GPCENDEDCPKLLCFIPDVPRCINEECECH-
+>UniRef100_A0A072TQJ0 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TQJ0_MEDTR
+-FRCFRDSDCVKLYCRPPLKSKCMYKTnCKCI-
+>UniRef100_A0A072UX97 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UX97_MEDTR
+-NRCFRDSDCPKEMCNHPKIPKCVNNAyCKCV-
+>UniRef100_A0A072UYL2 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UYL2_MEDTR
+-IRCVFPSDCPRTMrCLSEFHLTCKKKQCKCV-
+>UniRef100_A0A072V929 Late nodulin n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072V929_MEDTR
+-ILCKRNSHCPKYMCSPPLHQECIRNMCMCL-
+>UniRef100_A0A396I6D0 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396I6D0_MEDTR
+-TRCFRDSDCPKTLCHSPGKAKCMHHSiCKCI-
+>UniRef100_A0A396JLB6 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396JLB6_MEDTR
+--TCNYSSECLFHNCPLGWVMKCFTYFCACS-
+>UniRef100_A7KH77 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KH77_MEDTR
+--PCLRSGDCSKDECPSHLVPKCIGLTCYCI-
+>UniRef100_A7KHB0 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KHB0_MEDTR
+-IPCQRSDDCPRNLCVDQIIPTCVWAKCKCK-
+>UniRef100_G7IT95 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7IT95_MEDTR
+-LPCGTDDDCANDPCIHPEYPHCHMEQCHCV-
+>UniRef100_G7JHR4 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7JHR4_MEDTR
+--PCVTKDDCAYDECISPRKPTCYLETCHCL-
+>UniRef100_G7L152 Late nodulin n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7L152_MEDTR
+-IPCVLNTDCPRDMCPIHLFPKCINLLCRCS-
+>UniRef100_G7L154 Pollen Ole e I family allergen n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7L154_MEDTR
+-LPCLFSNECPPDLCPIDLFPKCINLSCQCS-
+>UniRef100_G7L159 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7L159_MEDTR
+-LPCLFSNECPPDLCPTDLFAKCINLTCQCT-
+>UniRef100_G7L162 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7L162_MEDTR
+-PPCLFTPECPPDMCPTDLTLKCINLSCQCT-
+>UniRef100_I3SK92 Putative Late nodulin n=2 Tax=Medicago truncatula TaxID=3880 RepID=I3SK92_MEDTR
+--PCQTKDDCVFDDCKFPKNPVCYLEACHCW-
+>UniRef100_A0A072V915 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072V915_MEDTR
+-APCKARADCSKLMCELPKISWCFHGYCECVQ
+>UniRef100_A0A072UE21 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UE21_MEDTR
+-SICKVDDDCPQRFVMYPLMFMCIKN--ICR-
+>UniRef100_A0A072VI94 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072VI94_MEDTR
+-ITCTVAGDCPNFFvCPPNNFVRCIRNLCKCR-
+>UniRef100_A0A0U8RBT4 Nodule cysteine-rich protein 1 n=1 Tax=Cicer arietinum TaxID=3827 RepID=A0A0U8RBT4_CICAR
+-STCKDDRDCPNTGnhCIAPDYMGCMFNNCYCV-
+>UniRef100_A0A0U8T1H8 Nodule cysteine-rich protein 2 n=1 Tax=Cicer arietinum TaxID=3827 RepID=A0A0U8T1H8_CICAR
+-RYCEYDMDCEDYVCTAPEVSMCIHTYCRCV-
+>UniRef100_A0A0U8TE87 Nodule cysteine-rich protein 3 n=1 Tax=Cicer arietinum TaxID=3827 RepID=A0A0U8TE87_CICAR
+-AMCEEDNDCPVFWCFPDQTLRCITKNCYCL-
+>UniRef100_A0A396JBY3 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396JBY3_MEDTR
+-HACNVDHDCPQWYCFRPDVMKCIFETCYCG-
+>UniRef100_A0A396JNL7 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396JNL7_MEDTR
+-SECEEDGDCPRTWCFGQFFVKCITNECICV-
+>UniRef100_A0A396JSC1 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396JSC1_MEDTR
+-ITCNVAGDCPEYFrCPPNTFVRCVSNICECR-
+>UniRef100_A0A396JWX1 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396JWX1_MEDTR
+-IKCTVAGDCPDFFrCPPNTFVRCISNICICR-
+>UniRef100_A7KHC6 Nodule-specific cysteine-rich peptide 239 n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KHC6_MEDTR
+-SICKDDTDCPTLFCVLPNVPKCIGSKCHCK-
+>UniRef100_A7KHF5 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KHF5_MEDTR
+-KECRQDSDCPSYFCEKLTIAKCIHSTCLCK-
+>UniRef100_A7KHF6 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KHF6_MEDTR
+-FECRQDSDCPSYFCEKLTVPKCFWSKCYCK-
+>UniRef100_A7KHF7 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KHF7_MEDTR
+-PDCRRNIDCPSYLCVAPKVPRCIMFECHCK-
+>UniRef100_A7KHF8 Nodule-specific cysteine-rich peptide 328 n=2 Tax=Medicago truncatula TaxID=3880 RepID=A7KHF8_MEDTR
+-PTCKEDIDCPSISCVNPQVPKCIMFECHCK-
+>UniRef100_G7KS99 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KS99_MEDTR
+-PECRQNSDCPPYFCIKPTVPKCIKFKCLCK-
+>UniRef100_G7KWX3 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KWX3_MEDTR
+-HSCVNANDCPYDFCSPPKYAKCVYNSCYCE-
+>UniRef100_G7L6H2 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7L6H2_MEDTR
+-HKCTQDSDCPSLLCRnKSELPKCIAGfMCRCP-
+>UniRef100_I3S0B8 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=I3S0B8_MEDTR
+-IKCTVSDDCPMNFrCPPNTFVRCISDLCTCR-
+>UniRef100_Q9STB7 Uncharacterized protein n=1 Tax=Galega orientalis TaxID=47654 RepID=Q9STB7_9FABA
+-FECQVDSDCPTDICPFSEVAKCINLICKCV-
+>UniRef100_A0A072TFS3 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TFS3_MEDTR
+-IPCVTVADCPRMDE--PLHMTCLVGACwpcirSL--
+>UniRef100_A0A072TQ17 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TQ17_MEDTR
+-IPCKSAEDCPKPIY--PRYVLCSYGFCRI--
+>UniRef100_A0A072TTX6 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TTX6_MEDTR
+-LPCATDTDCPKMGE--PMYFKCLNGFC-L--
+>UniRef100_A0A072U9Q9 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072U9Q9_MEDTR
+-FICVSDKECPTASY--PLVCKCIDNFCHV--
+>UniRef100_A0A072UA23 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UA23_MEDTR
+-IPCVAVDDCPKVEK--PLNMWCMHQYCVY--
+>UniRef100_A0A072UA55 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UA55_MEDTR
+-IPCFTAADCPMIDE--PHYIECVTGFCwalmrNL--
+>UniRef100_A0A072UAP3 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UAP3_MEDTR
+-IPCVSDSDCHKVKK--PLLLTCIDGICQY--
+>UniRef100_A0A072UBT3 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UBT3_MEDTR
+-ILCVSEADCPKVVK--PNYTMCAGGIC-W--
+>UniRef100_A0A072UKJ7 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UKJ7_MEDTR
+-IRCVTVDDCPKVIK--PLLMWCINKYCQY--
+>UniRef100_A0A072UKX9 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UKX9_MEDTR
+-IPCTSDANCPKVIS--PCHTKCFDGFCGW--
+>UniRef100_A0A072UW27 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UW27_MEDTR
+-IYCKSDADCPKESY--PLFVKCVDNFCDF--
+>UniRef100_A0A0U8TCS0 Nodule cysteine-rich protein 12 n=1 Tax=Cicer arietinum TaxID=3827 RepID=A0A0U8TCS0_CICAR
+--PCNSWRDCEEFDY---YEVACIDGFCEY--
+>UniRef100_A0A396HF74 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396HF74_MEDTR
+-IGCKSDADCPKAIE--PHYTRCVDGHCWL--
+>UniRef100_A0A396HFD0 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396HFD0_MEDTR
+-RPCVTVADCPPVKK--PLKMWCIRQTCFY--
+>UniRef100_A0A396HL58 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396HL58_MEDTR
+-IPCENKRDCPQPLY--PKFVTCFEGLCRM--
+>UniRef100_A0A396HM29 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396HM29_MEDTR
+-IPCESKQDCPKMFF--PHYVTCVEDLQVE--
+>UniRef100_A0A396HNF2 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396HNF2_MEDTR
+-IRCESKQDCPTMAL--PDYVTCVEGLCRI--
+>UniRef100_A7KH64 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KH64_MEDTR
+-IRCVTDADCPNVVK--PLKPKCVDGFCEY--
+>UniRef100_A7KH81 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KH81_MEDTR
+-IHCVSVDDCPKVEK--PITMKCINNYCKY--
+>UniRef100_A7KH96 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KH96_MEDTR
+-IPCKSDDACPRVSS---HHIECVKGFCTY--
+>UniRef100_A7KH99 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KH99_MEDTR
+-IRCVSDDDCPKVIK--PLVMKCIGNYCYF--
+>UniRef100_G7IDP5 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IDP5_MEDTR
+-IPCVSDYDCPKASY--PLFIKCIYNFCEI--
+>UniRef100_G7IDP6 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IDP6_MEDTR
+-ISCVSDDDCPKVPY--PLYIKCEDNFCDI--
+>UniRef100_G7JM81 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7JM81_MEDTR
+-IPCVFDYNCPEISY--YPVRCNVNNICEY--
+>UniRef100_G7JP95 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7JP95_MEDTR
+-LGCVSDDDCPKVPL--PRFLKCIANLC----
+>UniRef100_G7JQH8 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7JQH8_MEDTR
+-IPCVTNGDCPVMRL--PLYMRCITYSCEL--
+>UniRef100_G7JRC1 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7JRC1_MEDTR
+-IPCKFDNDCPEISY--PLILMCIDDFCEY--
+>UniRef100_G7KJN4 Defensin n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KJN4_MEDTR
+-TPCKSLNDCPKAIK--PIFVKCLGNICQY--
+>UniRef100_G7KME0 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7KME0_MEDTR
+-VRCVTDTDCPKMGE--PQYFKCLNGVC-L--
+>UniRef100_G7KNA1 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KNA1_MEDTR
+-IACVTDNDCPRAIK--PVVMWCINNYCHY--
+>UniRef100_G7KNA5 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KNA5_MEDTR
+-IRCVTDDDCPKVEK--PLYMYCGNHWCAY--
+>UniRef100_G7KNS7 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7KNS7_MEDTR
+-IRCATVDDCPKVTK--PVVMMCTGKFCHY--
+>UniRef100_G7KPK3 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KPK3_MEDTR
+-VRCITADDCPKVER--PLKMKCIGNYCHY--
+>UniRef100_I3S2V0 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=I3S2V0_MEDTR
+-IPCVSDESCPQVIK--PLVIKCIDKFCEY--
+>UniRef100_I3SP41 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=I3SP41_MEDTR
+-IPCDSRNDCPQQIL--PRYVLCVNGLCRI--
+>UniRef100_Q9AVA2 Nodule-specific protein n=1 Tax=Pisum sativum TaxID=3888 RepID=Q9AVA2_PEA
+-IPCETDKDCPWEIF--PLVMKCINKFCEY--
+>UniRef100_A0A072U8J5 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072U8J5_MEDTR
+-TRCFRDSNCPKSLCHPPTKPKCMYkSICKCI-
+>UniRef100_A0A0U8TNL3 Nodule cysteine-rich protein 11 n=1 Tax=Cicer arietinum TaxID=3827 RepID=A0A0U8TNL3_CICAR
+-YPCTKDEDCPKDMCkYPGSYPRCVWGWCECF-
+>UniRef100_A0A396GVD3 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396GVD3_MEDTR
+-TTCIYDSDCPEDMCYPPKKSFCSTfeilsierkvGVCECI-
+>UniRef100_A0A396IQI6 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396IQI6_MEDTR
+-YPCFIDGNCPRNMCKVYQIPKCVGGLCRCI-
+>UniRef100_G7IZF0 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IZF0_MEDTR
+-WPCVTDDDCPSDLCkKVDQIPKCVGGLCKCF-
+>UniRef100_A0A396IM71 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396IM71_MEDTR
+-DRCFKDSDCPKYMCPSSLVAKCIKKLCSCRK
+>UniRef100_A7KHB5 Nodule-specific cysteine-rich peptide 189 n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KHB5_MEDTR
+-DKCFRDSDCPKHMCPSSLVAKCINRLCRCRR
+>UniRef100_A7KHD5 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KHD5_MEDTR
+-WTCVEDSDCPANICQPPMQRMCFYGECACVR
+>UniRef100_A7KHE5 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KHE5_MEDTR
+-SFCFKDSDCPDEMCPSPLKEMCYFLQCKCGV
+>UniRef100_G7IW92 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IW92_MEDTR
+-RKCFRDSDCPKFMCPSYLAVKCIGRLCRCGR
+>UniRef100_G7IW95 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IW95_MEDTR
+-RRCFRDSDCPKNMCPSYLVVKCLRSNCKCVR
+>UniRef100_G7IWA4 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IWA4_MEDTR
+-NRCFRDSDCPKVMCPSYLVTKCFKKHCRCRK
+>UniRef100_Q9LEF6 Late nodulin n=1 Tax=Vicia faba TaxID=3906 RepID=Q9LEF6_VICFA
+-RTCFTPADCPTSDCEPPSRPFCAFKYCICG-
+>UniRef100_A0A072U1H1 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072U1H1_MEDTR
+-RECVSDYDCYIkYTILWKYNNVCTKGVCYTL-
+>UniRef100_A0A396HCW8 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396HCW8_MEDTR
+-RQCVDDHDCYKiFSCPREIAFKCVNGWCKCT-
+>UniRef100_A0A396J626 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396J626_MEDTR
+-KECISDAVCYEkYPGPFNFIMNCVDGYCKAF-
+>UniRef100_G7KU55 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KU55_MEDTR
+-KNCVSDSDCYKkFHLPRHFIMKCIKNRCTFV-
+>UniRef100_G7KU61 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KU61_MEDTR
+-KKCASESDCYTmFPVPHFIVMTCIEKKCHIT-
+>UniRef100_G7L694 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7L694_MEDTR
+-TECVTELDCYKkYRLPAEKKMKCIRGSCYRV-
+>UniRef100_A0A072UXN7 Late nodulin n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UXN7_MEDTR
+---CKTKYDCIKIrFCKFPTIARCTKPDflfleydrgfCTCDD
+>UniRef100_A0A072V4N7 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072V4N7_MEDTR
+--HCINAYDCPNV-CVDFLISRCINNKCYCM-
+>UniRef100_A0A0U8RBQ3 Nodule cysteine-rich protein 5 n=1 Tax=Cicer arietinum TaxID=3827 RepID=A0A0U8RBQ3_CICAR
+--HCATDDDCKNV-CVPPRVRQCLWSNCYCNV
+>UniRef100_A0A0U8TC29 Nodule cysteine-rich protein 4 n=1 Tax=Cicer arietinum TaxID=3827 RepID=A0A0U8TC29_CICAR
+--QCTVDSDCPNI-CHPPKVPRCFYYQCFCHI
+>UniRef100_A0A396I7Z9 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396I7Z9_MEDTR
+--LCVTDAACPQLFCS-PKTAKCIFFDCHCV-
+>UniRef100_G7K651 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7K651_MEDTR
+--ECIENNDCEKGMCKFPFIVRCLMDQCKCVR
+>UniRef100_G7KE20 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KE20_MEDTR
+--SCHYDKQCDED-CPFPFKGYCVEQHCLCKR
+>UniRef100_G7KVY6 Late nodulin n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7KVY6_MEDTR
+--ECNRTEDCPNV-CLYPKVSLCIWWYCTCVT
+>UniRef100_G7L4C1 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7L4C1_MEDTR
+---CKKTDDCIKIeFCKFPKIARCTKPKflflefgtgfCTCDD
+>UniRef100_A0A072ULL8 Nodule Cysteine-Rich (NCR) secreted peptide n=3 Tax=Medicago truncatula TaxID=3880 RepID=A0A072ULL8_MEDTR
+-AKCYQDSDCPKDMCSFLFKPKCIftryfpiylGGICGCDR
+>UniRef100_A0A072UMI8 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UMI8_MEDTR
+-AECYQDSDCPEDMCSYLAKPTCIfteyfpifwMAVCGCD-
+>UniRef100_A0A072UTZ4 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UTZ4_MEDTR
+-IKCFQDSDCPKYMCMFPLKPKCVyilvfpppwTAQCICD-
+>UniRef100_A0A396GHY2 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396GHY2_MEDTR
+-VQCRKNADCPKYLCMLPLKPKCKeTFWCTCIE
+>UniRef100_A0A396GLX5 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396GLX5_MEDTR
+-NICFKDADCPQDICSYPFKPKCNiYGYCSC--
+>UniRef100_A0A396IT73 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396IT73_MEDTR
+-RKCKQDSDCPEYICTFPWKPTCVeayflmynrQNYCTCT-
+>UniRef100_G7KU03 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KU03_MEDTR
+-NECTQDYDCPIEMCPFPFQPKCImlknlsifsnSGICSCT-
+>UniRef100_G7KU13 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KU13_MEDTR
+-NKCSQDSHCPKDMCKKPSKPRCVvspklplsskSGVCTCV-
+>UniRef100_G7KV47 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KV47_MEDTR
+-QECKVDADCPtvctlpgcPDICSFPDVPTCIDNNCFCT-
+>UniRef100_G7KV48 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7KV48_MEDTR
+-YGCNDDTDCPpscttrgcPDSCAYPHVLRCIGKNCAENK
+>UniRef100_G7KV53 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7KV53_MEDTR
+-EECKEDADCHpvcsvpgcSNICTLPDVPTCIDNNCFCI-
+>UniRef100_A0A072TH33 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TH33_MEDTR
+--ICKKNADCPRFMCIPPEKPKCVDLWCKCI-
+>UniRef100_A0A072TGQ3 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TGQ3_MEDTR
+--KCTLDNDCPKNMCLLPQIAQCVKFNCECK-
+>UniRef100_G7I8L8 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7I8L8_MEDTR
+--KpCTYNIDCPLSMCPSPEIPKCVNSICECK-
+>UniRef100_G7JZB1 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7JZB1_MEDTR
+--QCKHDSDCQKDMCRSPEIAKCVYFVCECV-
+>UniRef100_A0A396HUN8 Uncharacterized protein n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396HUN8_MEDTR
+-EECKDDGDCPTNMCLPSLVSKCINFICECT-
+>UniRef100_A0A072TVQ9 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TVQ9_MEDTR
+-RECNSDGDCPNYNCRVKEVGMCYFTKCYCIR
+>UniRef100_A0A072U6V1 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072U6V1_MEDTR
+-RGCNKDTDCPEKFCSSPDVVRCIYIECYCI-
+>UniRef100_A0A072V920 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072V920_MEDTR
+-IPCKTRTQCPEKMCRLPKFVWCIDGSCVCA-
+>UniRef100_A0A072V9P7 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072V9P7_MEDTR
+-ILCTTHAQCPGDMCELPQFVWCVVGFCECI-
+>UniRef100_A0A072VAT2 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072VAT2_MEDTR
+-ILCTTHAQCPGDMCELPQFVWNEYVID----
+>UniRef100_A0A0U8TY14 Nodule cysteine-rich protein 9 n=1 Tax=Cicer arietinum TaxID=3827 RepID=A0A0U8TY14_CICAR
+-ESCESASDCPSL------WYKCIDHICIWLP
+>UniRef100_A0A396GSI0 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396GSI0_MEDTR
+-RSCKTDDDCPDYLCTSPKIGKCMDNDCYCI-
+>UniRef100_A0A396GSM6 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396GSM6_MEDTR
+-GKCNTDDNCPDYMCSGPKVGKCIYNICYCIN
+>UniRef100_A0A396HH31 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396HH31_MEDTR
+-GKCISHMHCIYLSCGFPQLTYCLQNQCYCLN
+>UniRef100_G7IX56 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IX56_MEDTR
+-VNCLDDADCLEVSCLNGSNAECVGNSCVCVF
+>UniRef100_G7IX57 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IX57_MEDTR
+-VNCLDDADCLEVLCVFGSKAECVVNICICVP
+>UniRef100_G7IX62 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IX62_MEDTR
+-EDCFVDADCVNLiLCDFDEKPKCIINICQCFP
+>UniRef100_G7JTD6 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7JTD6_MEDTR
+-RNCELDSDCPNYLCYPPKVGKCYFHNCYCN-
+>UniRef100_I3S866 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=I3S866_MEDTR
+-LNCIDDSDCPYDMCDPGLLPRCLNGWCDCSR
+>UniRef100_A0A072VK32 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072VK32_MEDTR
+SFPCKTNSDCPSYLCHYPKNPECVERECICW-
+>UniRef100_A0A072V8K9 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072V8K9_MEDTR
+-MFCRYDEDCPPRMCRLPQVPQCNEFICDCG-
+>UniRef100_G7K8T1 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7K8T1_MEDTR
+-IECKNDFDCPKNMCLAPRVAWCVNNKCECV-
+>UniRef100_A0A072TVM6 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TVM6_MEDTR
+-TNCTSIADCASKICALPSVVWCLSHsnTCICL-
+>UniRef100_A0A072UC03 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UC03_MEDTR
+-PDCKENNDCPTFYC-ATWINTCIKFKCYCIR
+>UniRef100_G7I616 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7I616_MEDTR
+-HRCIEYTDCPEDMCHLPLVVVCHDHICKCLR
+>UniRef100_G7J277 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7J277_MEDTR
+-FRCLRNLDCPDSMCSSAYTPRCRHRTCVCLN
+>UniRef100_Q8RVZ6 Uncharacterized protein n=1 Tax=Trifolium repens TaxID=3899 RepID=Q8RVZ6_TRIRP
+-YSCFFHDDCPDNECiNQDFVAKCIANLCYCEA
+>UniRef100_A0A072UAE3 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UAE3_MEDTR
+-IPCATSDDCLKNMCRPPLTPRCIEHNCKCK-
+>UniRef100_A0A072UI73 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UI73_MEDTR
+-ILCKHDRNCPKNMCLLTQIPKCFKNVCKCV-
+>UniRef100_G7IQX4 Uncharacterized protein n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IQX4_MEDTR
+-RPCIIANDCPDSMCTFPEYPICYRGFCYCV-
+>UniRef100_A0A072VLX6 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072VLX6_MEDTR
+RIPCVSRNDCPKRPY--PLFMKCIDNFCEIW-
+>UniRef100_A0A396IE93 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396IE93_MEDTR
+RTPCVSDDDCLEAFL--PPIWKCVHNFCENI-
+>UniRef100_A0A396JHW9 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396JHW9_MEDTR
+TLPCVSKDDCPLGLP--PLSVTCIKKICLYY-
+>UniRef100_A0A396JRP5 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396JRP5_MEDTR
+HIPCVHHDDCPKRPY--PRFMKCVDNFCETW-
+>UniRef100_A7KH97 Nodule-specific cysteine-rich peptide 129 n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KH97_MEDTR
+TIPCTFIDDCPK--M--PLVVKCIDNFCNYF-
+>UniRef100_I3T6I7 Uncharacterized protein n=2 Tax=Medicago truncatula TaxID=3880 RepID=I3T6I7_MEDTR
+KLPCVTVDDCPKveKPI--PMVAKCFgksfSRHCHYF-
+>UniRef100_A0A072VK25 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072VK25_MEDTR
+-IPCKTRVDCPVDMCELSQIVWCIDGSCKCL-
+>UniRef100_A0A072VJU2 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072VJU2_MEDTR
+-VPCLTSFGCPRSTCYPPSTPNCIRRICECI-
+>UniRef100_A0A396I7S4 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396I7S4_MEDTR
+-VPtfipCKYTSDCPENTCWPPRKPRCIEQYCNCV-
+>UniRef100_A0A072UWG7 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UWG7_MEDTR
+--WCVRDIDCPKEKCKHPFKPRCLTHSCVC--
+>UniRef100_A0A072VKW9 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072VKW9_MEDTR
+--ECKTDVDCRQ----IWFVTKCINHECQP--
+>UniRef100_G7K5W7 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7K5W7_MEDTR
+---CVEDEDCMEESCPIFSVHKCKNSGCEC--
+>UniRef100_G7K5W8 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7K5W8_MEDTR
+---CIRDEDCFKQKrdedchkeyCMIFYVHKCENYKCVC--
+>UniRef100_G8A361 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=G8A361_MEDTR
+--WCYRDLDCRKDMCKPPFNPRCHNHICIC--
+>UniRef100_A0A396JFA4 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396JFA4_MEDTR
+-LNCNSDDGCPNNYCTPPHFGKCVSKQCVCM-
+>UniRef100_A7KHC8 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KHC8_MEDTR
+-RRCFNDAHCPPDMCTLGVIPKCsRFTICIC--
+>UniRef100_A7KHD2 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KHD2_MEDTR
+-RRCFNDAHCPPDMCTPGVIPKCKFTICKC--
+>UniRef100_A0A072ULV0 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072ULV0_MEDTR
+-IPCVSDADCPEELA---LVMKCINKLCELV-
+>UniRef100_I3T565 Uncharacterized protein n=1 Tax=Medicago truncatula TaxID=3880 RepID=I3T565_MEDTR
+TDECFTDADCEYILCLFPIIKRCIHNHCKCVP
+>UniRef100_A0A072TGW4 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TGW4_MEDTR
+-IHCIKNADCPKHMCIRPQKPKCFDS------
+>UniRef100_A7KHD9 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KHD9_MEDTR
+-FLCFKDSDCPYNMCPSPLKEMCYFIKCVC--
+>UniRef100_A0A072UL23 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UL23_MEDTR
+-LPCSSDDDCPKEMK--PVVVKCIHNFCE---
+>UniRef100_A0A2K3N1I5 Uncharacterized protein n=1 Tax=Trifolium pratense TaxID=57577 RepID=A0A2K3N1I5_TRIPR
+-ILCEQDEDCPIHLCIPPQVPKCVLVACDCV-
+>UniRef100_A0A396J936 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396J936_MEDTR
+--FCHSDSDCPKLCHPPKNVTNCFWNHCYCVR
+>UniRef100_A0A396JCS4 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396JCS4_MEDTR
+-NVCAYNSDCQSYPCDLGESRNCTLNRCICVY
+>UniRef100_G7ISZ8 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=G7ISZ8_MEDTR
+-GPCSSDSDCPSFLCDHDGVMKCFSNGCSCVD
+>UniRef100_A0A072UPM7 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UPM7_MEDTR
+-IPCEFDYDCPLIDCIRTSDSRCINGNCHCR-
+>UniRef100_A0A072TE63 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TE63_MEDTR
+-YHCYNHSDCQGSMCPTGSKPKCVDQVCECI-
+>UniRef100_A0A072TVW8 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TVW8_MEDTR
+-VKCDTDDDCRDYLCARPTVGKCIYDYCHCI-
+>UniRef100_A0A072V6P6 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072V6P6_MEDTR
+-NPCKSDSDCTKLKlkCDRHTILTCFWRHCYCI-
+>UniRef100_A0A072V7Y1 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072V7Y1_MEDTR
+-DPCNFDFDCRNSNCTAPYVATCMYEHCYC--
+>UniRef100_G7IVN7 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IVN7_MEDTR
+-PSCKEAIDCGINFCIRPFKAKCMMFTCFCV-
+>UniRef100_G7IVN8 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IVN8_MEDTR
+-PSCKEAIDCGENFCISRFRVKCWRFKCFCI-
+>UniRef100_A0A072U556 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072U556_MEDTR
+-FDCNEDRDCDNVICVAGGIPKCITPFCFCF-
+>UniRef100_A0A072U6R1 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A0A072U6R1_MEDTR
+-YRCQNDGDCDQI-CATHGISKCVATMCFCN-
+>UniRef100_A0A072UIM7 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UIM7_MEDTR
+-NNCKQDVDCPNI-CSPHEHSKCILYVCYCV-
+>UniRef100_A0A0C3VSU6 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A0C3VSU6_MEDTR
+-FTCQRDEDCKVA-CATyGGDPWCFRNVCFCK-
+>UniRef100_A0A396H933 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396H933_MEDTR
+-HECNRDRDCHIS-CVPPELPKCIAHMCFCF-
+>UniRef100_A7KH94 Nodule-specific cysteine-rich peptide 122 n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KH94_MEDTR
+--RCNRDEDCPFI-CTGPQIPKCVSHICFCL-
+>UniRef100_A7KHC1 Nodule-specific cysteine-rich peptide 217 n=2 Tax=Medicago truncatula TaxID=3880 RepID=A7KHC1_MEDTR
+-NNCKNDTECPND-CGPHEQAKCILYACYCV-
+>UniRef100_A7KHC4 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KHC4_MEDTR
+-HGCKEDRDCDNI-CSVHAVTKCIGNMCRCL-
+>UniRef100_A7KHE0 Nodule Cysteine-Rich (NCR) secreted peptide n=2 Tax=Medicago truncatula TaxID=3880 RepID=A7KHE0_MEDTR
+-HPCKKNEDCNHM-CVMPGLPWCHeNNLCFCY-
+>UniRef100_A7KHE1 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KHE1_MEDTR
+-FDCKKDGDCDHM-CVTPGIPKCTGYVCFCF-
+>UniRef100_A0A072UJQ2 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UJQ2_MEDTR
+-DRCRSILDCPQDKCFPLLTLVCTNFICDCL-
+>UniRef100_A0A072VAW3 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072VAW3_MEDTR
+-FLCSDDSDCPRDLCVrNSLTLRCVNYICQCR-
+>UniRef100_G7IT42 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IT42_MEDTR
+-FYCLSIKDCPQNLCVgSPLPLQCLKFICRCE-
+>UniRef100_A0A072U8A7 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072U8A7_MEDTR
+--YCTQNYDCPDDMCPFPDISWCNKhNICAC--
+>UniRef100_A0A072TJN4 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TJN4_MEDTR
+-VYCLQHSDCQAYECELPFKPDCLM-------
+>UniRef100_A0A072TJN6 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TJN6_MEDTR
+-TVCSLHSDCKAYVCQLPLKPECIL-------
+>UniRef100_A0A072TVV1 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072TVV1_MEDTR
+-TDCLQHSDCQAYACELPFKPDCLM-------
+>UniRef100_A0A072UKI9 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A072UKI9_MEDTR
+-IECNQHSDCPKDMCQFHLKPNCIL-------
+>UniRef100_A0A396I355 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396I355_MEDTR
+-NECRTSFDCRKYFCQLPLRPTCNY-------
+>UniRef100_A0A396I3A8 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396I3A8_MEDTR
+-ISCTQDFDCQTKICPFHLKPKCIV-------
+>UniRef100_A0A396I8Y9 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A0A396I8Y9_MEDTR
+-VICTQDFDCQTKICPFDLQPKCTI-------
+>UniRef100_G7JTI3 Nodule Cysteine-Rich (NCR) secreted peptide n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7JTI3_MEDTR
+-INCTQDSDCQSIGCLSHLKPKCTM-------
+>UniRef100_A7KH65 Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=A7KH65_MEDTR
+--VpCENPTTCPEDFCTPPMITRCINFICLCD-
+>UniRef100_G7IT56 Putative Late nodulin n=1 Tax=Medicago truncatula TaxID=3880 RepID=G7IT56_MEDTR
+--VCRSVSDCPENFCVPPLTIQCINYTCICD-

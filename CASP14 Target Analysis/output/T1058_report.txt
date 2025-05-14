@@ -1,0 +1,59 @@
+====================================================
+ANALYSIS REPORT FOR TARGET: T1058
+====================================================
+Generated on: Tue May 13 15:33:13 CDT 2025
+
+--------- 1. TARGET SEQUENCE ANALYSIS ---------
+1.1 Basic Sequence Information:
+  - Sequence length: 382 amino acids
+1.2 Amino Acid Composition:
+  - L: 53 (13.87%)
+  - G: 44 (11.51%)
+  - A: 35 (9.16%)
+  - R: 29 (7.59%)
+  - V: 24 (6.28%)
+  - P: 23 (6.02%)
+  - F: 23 (6.02%)
+  - E: 22 (5.75%)
+  - S: 18 (4.71%)
+  - W: 17 (4.45%)
+  - Y: 16 (4.18%)
+  - H: 12 (3.14%)
+  - I: 11 (2.87%)
+  - D: 11 (2.87%)
+  - T: 10 (2.61%)
+  - Q: 9 (2.35%)
+  - N: 9 (2.35%)
+  - K: 8 (2.09%)
+  - M: 5 (1.30%)
+  - C: 3 (.78%)
+1.3 No non-standard amino acids detected.
+1.4 Prediction Information:
+  - PSIPRED not found. Secondary structure prediction skipped.
+
+--------- 2. MULTIPLE SEQUENCE ALIGNMENT ANALYSIS ---------
+2.1 MSA Statistics:
+  - Number of sequences in alignment: 1632
+  - MSA has multiple sequences - good for structure prediction
+2.2 Alignment Coverage Analysis:
+  - Alignment depth assessment: based on sequence count
+    * Deep alignment (>500 sequences)
+
+--------- 3. STRUCTURE PREDICTION CONFIDENCE ASSESSMENT ---------
+3.1 Prediction Confidence Estimate:
+  - HIGH CONFIDENCE: Many homologous sequences found (1632)
+  - Structure prediction likely to be accurate
+
+--------- 4. RECOMMENDATIONS ---------
+4.1 Next Steps:
+  - Proceed with folding using AlphaFold2 or RoseTTAFold
+  - Expected good quality prediction based on alignment depth
+4.2 Additional Analyses to Consider:
+  - Conserved domain search (NCBI CDD, Pfam)
+  - Transmembrane region prediction
+  - Signal peptide prediction
+  - Disorder prediction
+
+====================================================
+End of report for T1058
+====================================================
