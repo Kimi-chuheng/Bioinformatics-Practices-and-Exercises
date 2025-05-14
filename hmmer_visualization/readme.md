@@ -1,6 +1,6 @@
 # HMMER Protein Sequence Alignment and Visualization
 
-This project performs protein sequence alignment using **HMMER** and visualizes the results using **R**. It includes:
+This practice performs protein sequence alignment using **HMMER** and visualizes the results using **R**. It includes:
 - A Python script to run `hmmscan`
 - An R script to parse and visualize the alignment results
 - A Bash script to automate the entire process
