@@ -1,0 +1,5 @@
+I-set                PF07679.22 query                -            2.6e-17   63.1   0.0   5.4e-17   62.1   0.0   1.6   1   0   0   1   1   1   1 Immunoglobulin I-set domain
+Ig_3                 PF13927.12 query                -            6.6e-12   46.2   0.3   2.3e-11   44.5   0.3   2.0   1   0   0   1   1   1   1 Immunoglobulin domain
+ig                   PF00047.31 query                -            3.5e-07   30.9   1.6   1.1e-06   29.3   1.6   1.9   1   0   0   1   1   1   1 Immunoglobulin domain
+DUF1661              PF07877.16 query                -            1.5e-06   28.2   0.0   3.5e+02    1.4   0.0   8.5   9   0   0   9   9   9   0 Protein of unknown function (DUF1661)
+Ig_2                 PF13895.12 query                -            9.1e-06   26.2   0.4   1.9e-05   25.2   0.4   1.5   1   0   0   1   1   1   1 Immunoglobulin domain
