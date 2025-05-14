@@ -1,10 +1,10 @@
-# Bioinformatics Tools Suite
+# Bioinformatics Practices and Exercises
 
-This repository contains a comprehensive suite of bioinformatics tools and scripts for genomic data analysis, sequence alignment, and protein structure prediction. The tools are designed to work with standard bioinformatics file formats such as FASTA and provide various functionalities for both nucleotide and protein sequence analysis.For each task, there is a readme file for further details.
+This repository contains my completed exercises and projects for the Bioinformatics course. Each section demonstrates understanding and application of key bioinformatics concepts, tools, and methodologies through hands-on implementation and analysis.
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
+- [Overview](#overview)
 - [GC Content Analysis](#gc-content-analysis)
 - [BLAST Analysis](#blast-analysis)
 - [HHblits Setup and Protein Alignment](#hhblits-setup-and-protein-alignment)
@@ -14,215 +14,166 @@ This repository contains a comprehensive suite of bioinformatics tools and scrip
 - [CASP14 Target Analysis](#casp14-target-analysis)
 - [MSA Quality Assessment and Visualization](#msa-quality-assessment-and-visualization)
 - [Future Work](#future-work)
-- [Dependencies](#dependencies)
-- [License](#license)
+- [References](#references)
 
-## Getting Started
+## Overview
 
-To use these tools, clone this repository and ensure you have the necessary dependencies installed. Most tools require a Linux/Unix environment with Bash and common bioinformatics software.
-
-```bash
-git clone https://github.com/username/bioinformatics-tools.git
-cd bioinformatics-tools
-```
+This project portfolio showcases my practical understanding of bioinformatics techniques and tools. Each exercise demonstrates proficiency in handling different bioinformatics data formats, implementing analysis pipelines, and interpreting results in a biological context. The work presented here covers sequence analysis, alignment techniques, domain identification, and protein structure analysis.
 
 ## GC Content Analysis
 
-Scripts for analyzing GC content and other basic statistics in genomic FASTA files.
+Implementation of Bash scripts for basic genomic analysis of FASTA files.
 
-### Features
+### Learning Objectives
 
-- Calculate GC content in FASTA files
-- Extract specific sequences by ID
-- Generate summary statistics for multiple files
-- Report sequence count and total base count
+- Text processing of biological sequence data
+- Linux shell scripting for bioinformatics
+- FASTA format parsing and content analysis
+- Batch processing of multiple genomic files
 
-### Usage
+### Key Implementations
 
-```bash
-# Calculate GC content for a single FASTA file
-./gc_content.sh <fasta_file>
-
-# Process all .fna files in a directory
-./batch_gc.sh <directory>
-
-# Generate a summary of GC content for all files
-./batch_gc_summary.sh <directory>
-
-# Get basic statistics about a FASTA file
-./fasta_info.sh <fasta_file>
-
-# Extract a specific sequence by ID
-./extract_sequence.sh <fasta_file> <sequence_id>
-```
+- `gc_content.sh`: Calculates GC content in a single FASTA file
+- `batch_gc.sh`: Processes multiple files for GC content analysis
+- `batch_gc_summary.sh`: Generates summary statistics for all analyzed files
+- `fasta_info.sh`: Reports sequence count and total base count
+- `extract_sequence.sh`: Extracts specific sequences by ID
 
 ## BLAST Analysis
 
-Tools for setting up and using BLAST+ for sequence alignment against nucleotide databases.
+Setup and usage of BLAST+ for sequence alignment against nucleotide databases.
 
-### Features
+### Learning Objectives
 
-- Download and install BLAST+
-- Create searchable nucleotide databases
-- Run BLAST searches with custom parameters
-- Parse and interpret alignment results
+- Installation and configuration of BLAST+
+- Creating searchable nucleotide databases
+- Running similarity searches with custom parameters
+- Interpreting alignment results in biological context
 
-### Usage
+### Key Implementations
 
-```bash
-# Create a BLAST database from a FASTA file
-makeblastdb -in <fasta_file> -dbtype nucl -out <output_database>
-
-# Run a BLAST search
-./run_blast.sh <query_fasta> <database_path>
-```
+- Setup of BLAST+ from source
+- Creation of a custom nucleotide database
+- Implementation of a BLAST search pipeline
+- Result parsing and biological interpretation
 
 ## HHblits Setup and Protein Alignment
 
-Tools for setting up HHblits and performing protein sequence alignments using hidden Markov models.
+Configuration of HHblits and application for protein sequence alignment using hidden Markov models.
 
-### Features
+### Learning Objectives
+
+- Understanding profile-based sequence alignment methods
+- Setting up complex bioinformatics tools
+- Working with the UniRef30 database
+- Interpreting HMM-based alignment results
+
+### Key Implementations
 
 - HH-suite installation and configuration
-- UniRef30 database setup
-- Protein sequence alignment using HHblits
-- Output in A3M format for further analysis
-
-### Usage
-
-```bash
-# Run HHblits alignment
-hhblits -i <query_fasta> -d <uniclust_db_path> -oa3m <output_file> -n 3
-```
+- UniRef30 database preparation
+- HHblits alignment pipeline
+- Output interpretation in A3M format
 
 ## Multiple Sequence Alignment Tool Comparison
 
-A comparative analysis of popular MSA tools: MUSCLE, ClustalW, and MAFFT.
+Comparative analysis of three popular MSA tools: MUSCLE, ClustalW, and MAFFT.
 
-### Features
+### Learning Objectives
 
-- Installation scripts for all three tools
-- Comparison of alignment accuracy and performance
-- Analysis of alignment characteristics
-- Wrapper script to compare results
+- Comparative evaluation of bioinformatics algorithms
+- Understanding the strengths and limitations of different MSA approaches
+- Benchmarking alignment accuracy and performance
+- Interpreting alignment characteristics
 
-### Usage
+### Key Implementations
 
-```bash
-# Compare all three alignment tools on the same input
-./compare_alignments.sh <input_fasta>
-```
+- Installation and configuration of three MSA tools
+- Execution of alignments on the same dataset
+- Comparative analysis of output alignments
+- Evaluation of algorithm behavior and performance
 
 ## HMMER Analysis
 
-Tools for domain identification using HMMER and the Pfam database.
+Implementation of domain identification using HMMER and the Pfam database.
 
-### Features
+### Learning Objectives
+
+- Protein domain identification techniques
+- Working with profile hidden Markov models
+- Statistical interpretation of alignment significance
+- Biological interpretation of domain architecture
+
+### Key Implementations
 
 - HMMER installation and configuration
 - Pfam database setup
-- Protein sequence scanning for domain identification
-- Result parsing and extraction of top domains
-
-### Usage
-
-```bash
-# Scan a protein sequence against Pfam domains
-./hmmer_pipeline.sh <query_sequence_fasta>
-```
+- Domain scanning pipeline
+- Results filtering and interpretation
 
 ## HMMER Protein Sequence Visualization
 
-Scripts for visualizing HMMER results using R.
+Development of visualization tools for HMMER analysis results using R.
 
-### Features
+### Learning Objectives
 
-- Python script to run hmmscan
-- R script for parsing and visualizing results
-- Automated workflow through a Bash script
+- Data visualization techniques for bioinformatics
+- Integration of Python and R in analysis pipelines
+- Statistical interpretation of domain significance
+- Workflow automation with shell scripting
 
-### Usage
+### Key Implementations
 
-```bash
-# Run the full workflow
-./analyze_protein.sh <input_fasta> <output_tbl_path>
-```
-
-### Output
-
-- `hmmer_score_vs_evalue.pdf`: HMMER score vs E-value (log scale)
-- `hmmer_top_hits.pdf`: Top 10 hits by score
-- `hmmer_significance.pdf`: Significance plot (-log10(E-value))
+- Python script for HMMER execution
+- R script for results visualization
+- Integration through Bash workflow
+- Generation of publication-quality figures
 
 ## CASP14 Target Analysis
 
-Tools for analyzing protein targets from the CASP14 dataset.
+Analysis pipeline for protein targets from the CASP14 dataset.
 
-### Features
+### Learning Objectives
 
-- Download and prepare CASP14 sequences
-- Automated conversion of FASTA to A3M format
-- Generation of detailed analysis reports
-- Prediction confidence assessment
+- Working with public protein structure datasets
+- Large-scale sequence analysis
+- Assessment of prediction confidence
+- Development of analysis reports
 
-### Usage
+### Key Implementations
 
-```bash
-# Download CASP14 sequences
-mkdir -p casp14/whole_file
-cd casp14/whole_file
-wget "https://predictioncenter.org/download_area/CASP14/sequences/casp14.seq.txt" -O "casp14.fa"
-
-# Split the file into individual FASTA files
-awk '/^>/{f="targets/" substr($0,2) ".fasta"} {print > f}' casp14_dedup.fa
-
-# Run the Makefile to process all sequences
-make
-
-# Analyze a specific alignment
-./analyze_alignment.sh <a3m_file> <fasta_file>
-```
+- CASP14 data acquisition pipeline
+- Automated processing of multiple targets
+- Generation of comprehensive analysis reports
+- Prediction confidence assessment framework
 
 ## MSA Quality Assessment and Visualization
 
-Tools to assess and visualize the quality of multiple sequence alignments.
+Tools and metrics for evaluating the quality of multiple sequence alignments.
 
-### Features
+### Learning Objectives
 
-- MSA quality assessment metrics
-- Interactive visualization of results
-- Analysis of sequence diversity and conservation
+- Quality assessment of bioinformatics results
+- Interactive data visualization
+- Advanced sequence conservation analysis
+- Integration of bioinformatics and data science
 
-### Usage
+### Key Implementations
 
-```bash
-# Assess MSA quality
-./assess_msa.sh <path_to_a3m_file>
-
-# Visualize the results
-./visualize_results.sh
-```
-
-### Output
-
-- MSA statistics in the `msa_stats/` directory
-- Interactive visualization in `reports/conservation_vs_seqcount_interactive.html`
+- MSA quality metrics calculation
+- Interactive visualization with Plotly
+- Conservation and diversity analysis
+- Statistical interpretation of alignment features
 
 ## Future Work
 
-This project is currently exploring the next steps in structural bioinformatics, specifically the use of AlphaFold3 for structure prediction from the generated A3M files. Due to current storage limitations on our computing infrastructure, we are waiting for alternative solutions to implement this phase of the project. The A3M files generated from our MSA pipeline are ready for structure prediction once the computational resources become available.
+This project is being extended to explore structure prediction using AlphaFold3 with the generated A3M files. Due to current computational resource limitations, this phase is pending until alternative storage solutions become available. The current MSA results have been prepared and are ready for structure prediction once resources are secured. This expansion would demonstrate practical application of state-of-the-art AI methods in structural bioinformatics.
 
-## Dependencies
+## References
 
-- **Basic Tools**: Bash, wget, grep, sed, awk
-- **BLAST+**: For sequence alignment
-- **HH-suite**: For HHblits
-- **MUSCLE, ClustalW, MAFFT**: For multiple sequence alignment
-- **HMMER**: For protein domain analysis
-- **Pfam Database**: For domain identification
-- **R with ggplot2, dplyr, viridis**: For visualization
-- **Python 3 with pandas, plotly**: For interactive visualization
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+- NCBI Database Resources: https://www.ncbi.nlm.nih.gov/
+- HMMER Documentation: http://hmmer.org/
+- HH-suite GitHub repository: https://github.com/soedinglab/hh-suite
+- Pfam Database: http://pfam.xfam.org/
+- CASP14 Dataset: https://predictioncenter.org/casp14/
+- AlphaFold Documentation: https://alphafold.ebi.ac.uk/
